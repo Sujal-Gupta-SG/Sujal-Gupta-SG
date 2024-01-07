@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sujal Gupta</h1>
 
-<h3 align="center">A passionated Full stack web developer </h3>
+<h3 align="center">A passionate about  Full stack  developer </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
