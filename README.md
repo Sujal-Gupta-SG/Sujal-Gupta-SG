@@ -41,11 +41,13 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
   
   
 <h4> 📬 Reach me out </h4>
 <p align="left">
 <a href = "https://www.linkedin.com/in/sujal24092004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href = "https://www.instagram.com/i_m_sujal_gupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sujal-Gupta-SG&label=Profile%20views&color=0e75b6&style=flat" alt="Sujal-Gupta-SG" /> </p>
 
 
