@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sujal-Gupta-SG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Gupta-SG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Gupta-SG&theme=tokyonight)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
